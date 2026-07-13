@@ -1,4 +1,4 @@
-<img src="https://github.com/FionaHong-Lab/FionaHong-Lab/raw/main/assets/github-hero.svg" width="100%" alt="hero">
+<img src="assets/github-hero.sv" width="100%" alt="hero">
 
 # Hi, I'm Fiona Hong 👋
 
