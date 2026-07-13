@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-banner-loop.gif" width="100%" alt="Fiona's Personal Banner">
+  <img src="./assets/github-banner-loop.gif" width="80%">
 </p>
 
 # Hi, I'm Fiona Hong 👋
