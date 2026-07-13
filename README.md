@@ -48,7 +48,7 @@ I care about turning abstract AI concepts into practical paths that non-technica
 
 ## 公开项目
 
-### ai-agent-workflow-notes
+### [ai-agent-workflow-notes](https://github.com/FionaHong-Lab/ai-agent-workflow-notes)
 
 中文 AI Agent 交付、知识工作流与内容管理方法笔记。  
 目前包含四个方向：
