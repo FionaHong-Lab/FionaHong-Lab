@@ -46,11 +46,24 @@ I care about turning abstract AI concepts into practical paths that non-technica
 
 ---
 
-## Selected Projects
+## 公开项目
 
-- `fiona-ai-workbench` — AI workflow experiments and personal operating system.
-- `ImageGen-App` — lightweight AI image generation app experiment.
-- `ai-workflow-playbook` — notes and templates for AI workflow design. Coming soon.
+### ai-agent-workflow-notes
+
+中文 AI Agent 交付、知识工作流与内容管理方法笔记。  
+目前包含四个方向：
+
+- Agent 交付
+- 知识工作流
+- 内容管理
+- 工具边界
+
+这个仓库是我目前主要维护的公开方法库，用来记录我如何理解 AI Agent 在真实工作流里的落地方式。
+
+### FionaHong-Lab
+
+我的 GitHub 个人首页与 AI 工作流实践入口。  
+这里用于整理我的公开项目、方法笔记和长期 AI 实践方向。
 
 ---
 
