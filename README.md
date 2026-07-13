@@ -1,3 +1,5 @@
+<img src="assets/github-hero.svg" width="100%" alt="hero">
+
 # Hi, I'm Fiona Hong 👋
 
 中文｜English
