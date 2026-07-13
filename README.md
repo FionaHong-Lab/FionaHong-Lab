@@ -69,5 +69,5 @@ I care about turning abstract AI concepts into practical paths that non-technica
 
 ## Links
 
-- Personal Website: coming soon
-- Writing / Notes: coming soon
+- Personal Website: https://fionahong.cc/
+- GitHub Notes: ai-agent-workflow-notes
