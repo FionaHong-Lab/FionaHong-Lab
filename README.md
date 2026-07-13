@@ -1,4 +1,6 @@
-![Banner](README-assets/github-banner-loop.gif)
+<p align="center">
+  <img src="./assets/github-banner-loop.gif" width="100%" alt="Fiona's Personal Banner">
+</p>
 
 # Hi, I'm Fiona Hong 👋
 
