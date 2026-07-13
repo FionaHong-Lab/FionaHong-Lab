@@ -1,4 +1,4 @@
-<img src="assets/github-hero.svg" width="100%" alt="hero">
+![Banner](README-assets/github-banner-loop.gif)
 
 # Hi, I'm Fiona Hong 👋
 
