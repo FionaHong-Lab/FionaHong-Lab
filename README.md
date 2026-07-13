@@ -60,7 +60,7 @@ I care about turning abstract AI concepts into practical paths that non-technica
 
 这个仓库是我目前主要维护的公开方法库，用来记录我如何理解 AI Agent 在真实工作流里的落地方式。
 
-### FionaHong-Lab
+### [FionaHong-Lab](https://github.com/FionaHong-Lab/FionaHong-Lab)
 
 我的 GitHub 个人首页与 AI 工作流实践入口。  
 这里用于整理我的公开项目、方法笔记和长期 AI 实践方向。
