@@ -53,10 +53,10 @@ I care about turning abstract AI concepts into practical paths that non-technica
 中文 AI Agent 交付、知识工作流与内容管理方法笔记。  
 目前包含四个方向：
 
-- Agent 交付
-- 知识工作流
-- 内容管理
-- 工具边界
+- [Agent 交付不是自动化](https://github.com/FionaHong-Lab/ai-agent-workflow-notes/blob/main/01-agent-delivery/agent-delivery-not-automation.md)
+- [知识库不是资料堆积](https://github.com/FionaHong-Lab/ai-agent-workflow-notes/blob/main/02-knowledge-workflow/knowledge-base-not-storage.md)
+- [内容管理如何介入 AI 工作流](https://github.com/FionaHong-Lab/ai-agent-workflow-notes/blob/main/03-content-operations/content-management-ai-workflow.md)
+- [Codex 和 Cursor 分别适合什么](https://github.com/FionaHong-Lab/ai-agent-workflow-notes/blob/main/04-tool-notes/codex-vs-cursor.md)
 
 这个仓库是我目前主要维护的公开方法库，用来记录我如何理解 AI Agent 在真实工作流里的落地方式。
 
@@ -70,4 +70,4 @@ I care about turning abstract AI concepts into practical paths that non-technica
 ## Links
 
 - Personal Website: https://fionahong.cc/
-- GitHub Notes: ai-agent-workflow-notes
+- GitHub Notes: https://github.com/FionaHong-Lab/ai-agent-workflow-notes
