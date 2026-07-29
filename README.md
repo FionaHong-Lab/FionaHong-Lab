@@ -106,7 +106,13 @@ AI Agent 交付案例库。
 
 当前案例：
 
-[Case 01｜退换货客服 Agent：Workflow、Agent 与 Human 边界设计](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-01-return-refund-agent-boundary.md)
+## Cases
+
+| Case | Scenario | Focus |
+|-|-|-|
+| 01 | [退换货客服 Agent](case-01-return-refund-agent-template.md) | 从退货审核场景拆解 Workflow、Agent 与 Human 的职责边界，设计可验证的人机协作流程 |
+| 02 | [从人工客服流程到 AI Agent](case-02-customer-process-mapping.md) | 在 Agent 设计前进行业务流程映射，发现制度流程与真实执行之间的差异 |
+| 03 | [从 Demo 到可交付 Agent](case-03-agent-evaluation-before-launch.md) | 上线前通过风险场景验证 AI 是否可靠，识别错误决策和人工兜底边界 |
 
 ---
 
