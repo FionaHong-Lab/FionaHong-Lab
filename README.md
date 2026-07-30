@@ -65,15 +65,6 @@ AI Agent 交付案例库，探索业务场景中的 Agent 设计与落地。
 
 ---
 
-### Personal AI Workbench
-
-AI 实践工作台，记录使用 Codex、Cursor、Claude Code、Obsidian、GitHub 等工具完成的实验与原型。
-
-| Direction | Focus |
-|-|-|
-| Prototype | AI 辅助开发与轻量应用 |
-| Workflow | 个人 AI 工作流实验 |
-| Knowledge System | 个人知识管理与工具连接 |
 
 ---
 
@@ -139,18 +130,6 @@ AI Agent 交付案例库。
 
 ---
 
-## FionaHong-Lab
-
-[FionaHong-Lab](https://github.com/FionaHong-Lab/FionaHong-Lab)
-
-我的 GitHub 个人主页与 AI 实践入口。
-
-这里用于整理：
-
-- 公开项目
-- 方法笔记
-- AI Workflow 实验
-- 长期 AI 应用探索方向
 
 ---
 
