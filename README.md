@@ -25,17 +25,31 @@ I translate messy business workflows into AI-assisted systems.
 
 ## What I'm Building
 
-### AI Workflow Playbook
+## AI Workflow Playbook
 
-A public collection of notes, prompts, and workflow patterns for applying AI to real business scenarios.
+[ai-agent-workflow-notes](https://github.com/FionaHong-Lab/ai-agent-workflow-notes)
 
-我会在这里整理：
+AI Workflow 方法库，记录知识工作流、内容管理与 AI 工具使用边界。
 
-- 业务场景拆解
-- Agent 工作流设计
-- Prompt 模板
-- AI 工具边界
-- 知识库与个人工作系统
+通过不同工作场景探索：
+
+- 如何让信息变成 AI 可调用的知识
+- 如何设计 AI 辅助工作流程
+- 如何判断不同 AI 工具的适用边界
+
+当前方向：
+
+| Direction | Focus |
+|-|-|
+| Knowledge Workflow | 知识结构化与 AI 可调用工作流 |
+| Content Operations | AI 辅助内容生产与管理流程 |
+| Tool Notes | AI 工具选择与使用边界 |
+
+当前内容：
+
+- 知识库不是资料堆积
+- 内容管理如何介入 AI 工作流
+- Codex 和 Cursor 分别适合什么
 
 ---
 
@@ -43,12 +57,12 @@ A public collection of notes, prompts, and workflow patterns for applying AI to 
 
 A collection of AI Agent delivery cases exploring business scenarios, workflow design, and human-AI collaboration boundaries.
 
-这里记录我如何分析 AI 应用落地场景：
+这里记录 AI 应用如何从业务问题走向可靠交付：
 
-- 哪些任务适合 Workflow
-- 哪些任务需要 Agent 判断
-- 哪些环节必须保留 Human 介入
-- 如何设计验证和交付流程
+- 业务流程分析
+- Workflow / Agent / Human 边界设计
+- AI 应用验证
+- 人机协作流程设计
 
 ---
 
@@ -75,15 +89,22 @@ I care about turning abstract AI concepts into practical paths that non-technica
 
 ---
 
-## Public Projects
+# Public Projects
 
-### AI Workflow Playbook
+## AI Workflow Playbook
 
 [ai-agent-workflow-notes](https://github.com/FionaHong-Lab/ai-agent-workflow-notes)
 
 中文 AI Agent 交付、知识工作流与内容管理方法库。
 
-目前包含：
+当前方向：
+
+- Agent Delivery
+- Knowledge Workflow
+- Content Operations
+- Tool Notes
+
+包含：
 
 - Agent 交付不是自动化
 - 知识库不是资料堆积
@@ -92,37 +113,40 @@ I care about turning abstract AI concepts into practical paths that non-technica
 
 ---
 
-### AI Agent Delivery Casebook
+## AI Agent Delivery Casebook
 
 [ai-agent-delivery-casebook](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook)
 
 AI Agent 交付案例库。
 
-通过具体业务场景拆解：
+通过业务场景探索：
 
-- Agent / Workflow / Human 边界设计
-- 业务流程分析
-- AI 应用交付思路
+- 如何发现真实业务流程
+- 如何设计 Agent / Workflow / Human 边界
+- 如何验证 AI 是否具备上线条件
 
 当前案例：
 
-## Cases
-
 | Case | Scenario | Focus |
 |-|-|-|
-| 01 | [退换货客服 Agent](case-01-return-refund-agent-template.md) | 从退货审核场景拆解 Workflow、Agent 与 Human 的职责边界，设计可验证的人机协作流程 |
-| 02 | [从人工客服流程到 AI Agent](case-02-customer-process-mapping.md) | 在 Agent 设计前进行业务流程映射，发现制度流程与真实执行之间的差异 |
-| 03 | [从 Demo 到可交付 Agent](case-03-agent-evaluation-before-launch.md) | 上线前通过风险场景验证 AI 是否可靠，识别错误决策和人工兜底边界 |
+| 01 | 退换货客服 Agent | Workflow / Agent / Human 边界设计 |
+| 02 | 从人工客服流程到 AI Agent | 业务流程映射与真实流程发现 |
+| 03 | 从 Demo 到可交付 Agent | 上线验证与风险边界设计 |
 
 ---
 
-### FionaHong-Lab
+## FionaHong-Lab
 
 [FionaHong-Lab](https://github.com/FionaHong-Lab/FionaHong-Lab)
 
 我的 GitHub 个人主页与 AI 实践入口。
 
-这里用于整理公开项目、方法笔记和长期 AI 探索方向。
+这里用于整理：
+
+- 公开项目
+- 方法笔记
+- AI Workflow 实验
+- 长期 AI 应用探索方向
 
 ---
 
