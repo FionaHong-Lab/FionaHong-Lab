@@ -93,18 +93,24 @@ I care about turning abstract AI concepts into practical paths that non-technica
 
 [ai-agent-workflow-notes](https://github.com/FionaHong-Lab/ai-agent-workflow-notes)
 
-中文 AI Agent 交付、知识工作流与内容管理方法库。
+AI Workflow 方法库，记录知识工作流、内容管理与 AI 工具使用边界。
+
+通过不同工作场景探索：
+
+- 如何让信息变成 AI 可调用的知识
+- 如何设计 AI 辅助工作流程
+- 如何判断不同 AI 工具的适用边界
 
 当前方向：
 
-- Agent Delivery
-- Knowledge Workflow
-- Content Operations
-- Tool Notes
+| Direction | Focus |
+|-|-|
+| Knowledge Workflow | 知识结构化与 AI 可调用工作流 |
+| Content Operations | AI 辅助内容生产与管理流程 |
+| Tool Notes | AI 工具选择与使用边界 |
 
-包含：
+当前内容：
 
-- Agent 交付不是自动化
 - 知识库不是资料堆积
 - 内容管理如何介入 AI 工作流
 - Codex 和 Cursor 分别适合什么
