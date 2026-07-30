@@ -25,25 +25,17 @@ I translate messy business workflows into AI-assisted systems.
 
 ## What I'm Building
 
-## AI Workflow Playbook
+### AI Workflow Playbook
 
 [ai-agent-workflow-notes](https://github.com/FionaHong-Lab/ai-agent-workflow-notes)
 
-AI Workflow 方法库，记录知识工作流、内容管理与 AI 工具使用边界。
-
-通过不同工作场景探索：
-
-- 如何让信息变成 AI 可调用的知识
-- 如何设计 AI 辅助工作流程
-- 如何判断不同 AI 工具的适用边界
-
-当前方向：
+AI Workflow 方法库，探索 AI 如何介入知识、内容与日常工作流程。
 
 | Direction | Focus |
 |-|-|
-| Knowledge Workflow | 知识结构化与 AI 可调用工作流 |
+| Knowledge Workflow | 信息整理、知识结构化与 AI 可调用工作流 |
 | Content Operations | AI 辅助内容生产与管理流程 |
-| Tool Notes | AI 工具选择与使用边界 |
+| Tool Notes | AI 工具选择与工作流组合 |
 
 当前内容：
 
@@ -55,27 +47,33 @@ AI Workflow 方法库，记录知识工作流、内容管理与 AI 工具使用�
 
 ### AI Agent Delivery Casebook
 
-A collection of AI Agent delivery cases exploring business scenarios, workflow design, and human-AI collaboration boundaries.
+[ai-agent-delivery-casebook](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook)
 
-这里记录 AI 应用如何从业务问题走向可靠交付：
+AI Agent 交付案例库，探索业务场景中的 Agent 设计与落地。
 
-- 业务流程分析
-- Workflow / Agent / Human 边界设计
-- AI 应用验证
-- 人机协作流程设计
+| Direction | Focus |
+|-|-|
+| Business Analysis | 发现真实业务流程与问题 |
+| Agent Design | Workflow / Agent / Human 边界设计 |
+| Delivery Validation | AI 上线验证与风险控制 |
+
+当前案例：
+
+- 退换货客服 Agent
+- 从人工客服流程到 AI Agent
+- 从 Demo 到可交付 Agent
 
 ---
 
 ### Personal AI Workbench
 
-Experiments with Codex, Cursor, Claude Code, Obsidian, GitHub, and lightweight web apps.
+AI 实践工作台，记录使用 Codex、Cursor、Claude Code、Obsidian、GitHub 等工具完成的实验与原型。
 
-这里记录我如何使用 AI 工具，把想法转化为：
-
-- 可见的原型
-- 文档
-- 工作流程
-- 小型应用
+| Direction | Focus |
+|-|-|
+| Prototype | AI 辅助开发与轻量应用 |
+| Workflow | 个人 AI 工作流实验 |
+| Knowledge System | 个人知识管理与工具连接 |
 
 ---
 
