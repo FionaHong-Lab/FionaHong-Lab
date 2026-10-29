@@ -28,6 +28,12 @@ I translate business workflows into AI-assisted ways of working.
 
 [阅读案例库](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook) · [在线体验退换货客服 Agent](https://returns-review-web.coze.site/returns-review-agent)
 
+### AI 模型选型与成本估算工具
+
+根据用量假设和模型单价比较文本 API 推理成本，以公式计算并展示估算边界；不替用户决定最佳模型。已有可运行原型，测试结果与在线地址待补充。
+
+[阅读项目案例](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-04-ai-model-cost-estimator.md)
+
 ## 方法与笔记
 
 ### AI Workflow Playbook
@@ -35,11 +41,5 @@ I translate business workflows into AI-assisted ways of working.
 记录知识工作流、内容管理和 AI 工具使用边界，探索如何把信息整理成 AI 可以参与的工作流程。
 
 [阅读方法笔记](https://github.com/FionaHong-Lab/ai-agent-workflow-notes)
-
-## 后续探索
-
-- AI 模型选型与成本估算工具：计划中。
-
----
 
 [个人官网](https://fionahong.cc/)
