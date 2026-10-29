@@ -30,9 +30,9 @@ I translate business workflows into AI-assisted ways of working.
 
 ### AI 模型选型与成本估算工具
 
-根据用量假设和模型单价比较文本 API 推理成本，以公式计算并展示估算边界；不替用户决定最佳模型。已有可运行原型，测试结果与在线地址待补充。
+根据用量假设和模型单价比较文本 API 推理成本，以公式计算并展示估算边界；不替用户决定最佳模型。已有可运行原型，测试结果待补充。
 
-[阅读项目案例](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-04-ai-model-cost-estimator.md)
+[阅读项目案例](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-04-ai-model-cost-estimator.md) · [在线体验](https://ai-model-cost.coze.site/)
 
 ## 方法与笔记
 
