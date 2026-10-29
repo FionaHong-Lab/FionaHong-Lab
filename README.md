@@ -26,13 +26,13 @@ I translate business workflows into AI-assisted ways of working.
 
 以退换货客服等模拟业务场景为例，从业务流程梳理、Workflow / Agent / Human 边界设计，到上线前验证，记录 AI Agent 的交付思考。
 
-[阅读案例库](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook) · [在线体验退换货客服 Agent](https://returns-review-web.coze.site/returns-review-agent)
+[阅读案例](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook) · [在线体验](https://returns-review-web.coze.site/returns-review-agent)
 
 ### AI 模型选型与成本估算工具
 
 根据用量假设和模型单价比较文本 API 推理成本，以公式计算并展示估算边界；不替用户决定最佳模型。已有可运行原型，测试结果待补充。
 
-[阅读项目案例](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-04-ai-model-cost-estimator.md) · [在线体验](https://ai-model-cost.coze.site/)
+[阅读案例](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-04-ai-model-cost-estimator.md) · [在线体验](https://ai-model-cost.coze.site/)
 
 ## 方法与笔记
 
