@@ -34,6 +34,12 @@ I translate business workflows into AI-assisted ways of working.
 
 [阅读案例](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-04-ai-model-cost-estimator.md) · [在线体验](https://ai-model-cost.coze.site/)
 
+### 销售线索判断
+
+记录销售线索分析页面的交互设计：用户选择示例或输入线索，再手动触发分析。案例为草稿，判断规则、人机边界和在线地址待补充。
+
+[阅读案例](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-05-sales-lead-analysis.md)
+
 ## 方法与笔记
 
 ### AI Workflow Playbook
