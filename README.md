@@ -44,11 +44,11 @@
 
 [阅读案例](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-04-ai-model-cost-estimator.md) · [在线体验](https://ai-model-cost.coze.site/)
 
-### 进行中｜销售线索分析
+### 业务场景实践｜销售线索 Agent
 
-已记录页面交互：选择示例或输入线索后，由人手动触发分析。判断规则与人机边界仍在补齐。
+粘贴销售咨询或沟通记录，由 Agent 整理线索信息、待确认项、下一步建议与跟进话术草稿；冲突标记、不编造效果承诺；话术仅为草稿、不自动发送。演示场景 / 练习，非正式资格评分。
 
-[阅读案例](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-05-sales-lead-analysis.md)
+[阅读案例](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-05-sales-lead-analysis.md) · [在线体验](https://sales-lead-web.coze.site)
 
 ## 方法与笔记
 
