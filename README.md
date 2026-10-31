@@ -2,41 +2,51 @@
   <img src="./assets/github-banner-loop.gif" width="75%">
 </p>
 
-# Hi, I'm Fiona Hong 👋
+# Fiona Hong
 
-I translate business workflows into AI-assisted ways of working.
+**目标角色：AI 交付经理 / AI Delivery Manager**
 
-我的视角来自项目管理与交付现场：把业务问题和协作流程拆清楚，再设计 AI、规则和人工各自负责的部分，让方案可以被理解、验证和使用。
+把业务场景翻译成可交付的 Agent：划清人机边界，定验收与灰度回滚，并在标明的假设下算清价值。
+
+**面试请先看：** [Case 06｜退换货端到端交付](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-06-return-refund-e2e-delivery.md)
 
 ---
 
 ## 项目协作 Agent
 
-围绕项目交付中的具体协作节点制作的可运行原型。Agent 帮忙整理信息，最终判断和确认仍由人完成。
+项目交付节点上的可运行原型。Agent 整理信息，判断与确认由人完成。
 
 | Agent | 使用场景 | 入口 |
 | --- | --- | --- |
-| 交付助手 Agent | 会议纪要 → 项目跟进：整理进展、行动项、风险与待确认事项 | [在线体验](https://deliverybrief.coze.site) |
-| 复盘助手 Agent | 项目过程 → 复盘结论：梳理事实、原因与下一轮改进动作 | [在线体验](https://projectdelivery.coze.site) |
-| 需求拆解 Agent | 业务素材 → 需求地图：整理需求脉络、范围与待确认项 | [在线体验](https://storymaplab.coze.site) |
+| 交付助手 Agent | 会议纪要 → 项目跟进：进展、行动项、风险与待确认事项 | [在线体验](https://deliverybrief.coze.site) |
+| 复盘助手 Agent | 项目过程 → 复盘结论：事实、原因与下一轮改进动作 | [在线体验](https://projectdelivery.coze.site) |
+| 需求拆解 Agent | 业务素材 → 需求地图：需求脉络、范围与待确认项 | [在线体验](https://storymaplab.coze.site) |
 
 ## 业务场景实践
 
-### AI Agent Delivery Casebook
+### 主作品｜AI Agent Delivery Casebook
 
-以退换货客服等模拟业务场景为例，从业务流程梳理、Workflow / Agent / Human 边界设计，到上线前验证，记录 AI Agent 的交付思考。
+同一条退换货客服场景（假设 / 练习）：流程 → 人机边界 → 流程映射 → 上线风险 → **端到端交付**。
 
-[阅读案例](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook) · [在线体验](https://returns-review-web.coze.site/returns-review-agent)
+**[Case 06｜退换货端到端交付](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-06-return-refund-e2e-delivery.md)** · [案例库](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook) · [在线体验](https://returns-review-web.coze.site/returns-review-agent)
 
-### AI 模型选型与成本估算工具
+| 步骤 | 案例 |
+| --- | --- |
+| 01a 流程 | [退换货业务流程](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-01a-return-refund-workflow.md) |
+| 01b 边界 | [退换货 Agent 边界](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-01b-return-refund-agent-boundary.md) |
+| 02 映射 | [从人工客服流程到 AI Agent](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-02-customer-process-mapping.md) |
+| 03 上线风险 | [从 Demo 到可交付 Agent](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-03-agent-evaluation-before-launch.md) |
+| 06 端到端 | [退换货端到端交付](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-06-return-refund-e2e-delivery.md) |
 
-根据用量假设和模型单价比较文本 API 推理成本，以公式计算并展示估算边界；不替用户决定最佳模型。已有可运行原型，测试结果待补充。
+### 工具实践｜AI 模型选型与成本估算
+
+按用量假设和模型单价，用公式比较文本 API 推理成本。结果是成本对比，模型选择由使用方完成。文中数字均为假设。原型可运行，测试结果待补充。
 
 [阅读案例](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-04-ai-model-cost-estimator.md) · [在线体验](https://ai-model-cost.coze.site/)
 
-### 销售线索分析工具｜AI 应用实践
+### 进行中｜销售线索分析
 
-记录销售线索分析页面的交互设计：用户选择示例或输入线索，再手动触发分析。案例为草稿，判断规则、人机边界和在线地址待补充。
+已记录页面交互：选择示例或输入线索后，由人手动触发分析。判断规则与人机边界仍在补齐。
 
 [阅读案例](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-05-sales-lead-analysis.md)
 
@@ -44,8 +54,14 @@ I translate business workflows into AI-assisted ways of working.
 
 ### AI Workflow Playbook
 
-记录知识工作流、内容管理和 AI 工具使用边界，探索如何把信息整理成 AI 可以参与的工作流程。
+知识工作流、内容管理，以及 AI 工具的使用边界。
+
+- [Agent 交付不是自动化](https://github.com/FionaHong-Lab/ai-agent-workflow-notes/blob/main/01-agent-delivery/agent-delivery-not-automation.md)
+- [知识库不是资料堆积](https://github.com/FionaHong-Lab/ai-agent-workflow-notes/blob/main/02-knowledge-workflow/knowledge-base-not-storage.md)
+- [内容管理如何介入 AI 工作流](https://github.com/FionaHong-Lab/ai-agent-workflow-notes/blob/main/03-content-operations/content-management-ai-workflow.md)
 
 [阅读方法笔记](https://github.com/FionaHong-Lab/ai-agent-workflow-notes)
+
+---
 
 [个人官网](https://fionahong.cc/)
