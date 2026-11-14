@@ -50,6 +50,12 @@
 
 [阅读案例](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-05-sales-lead-analysis.md) · [在线体验](https://sales-lead-web.coze.site)
 
+### 制造业真实企业推演｜申洲针织（安徽）产能腾挪期 AI 落地试点
+
+以申洲针织（安徽）生产计划部为对象，基于年报与公开报道，推演新老厂产能腾挪期可能遇到的具体阻塞，并给出 AI 落地试点小组的分阶段方案：先把每张单的进度做成准数，再请管理层拍板规则，最后才谈系统与 AI。公开资料推演，非真实项目。
+
+[阅读方案](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-07-shenzhou-capacity-shift-pilot.md) · [查看 PDF](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/assets/case-07/shenzhou-ai-pilot.pdf)
+
 ## 方法与笔记
 
 ### AI Workflow Playbook
