@@ -21,7 +21,7 @@
 | 交付助手 Agent | 会议纪要 → 项目跟进：进展、行动项、风险与待确认事项 | [在线体验](https://deliverybrief.coze.site) |
 | 复盘助手 Agent | 项目过程 → 复盘结论：事实、原因与下一轮改进动作 | [在线体验](https://projectdelivery.coze.site) |
 | 需求拆解 Agent | 业务素材 → 需求地图：需求脉络、范围与待确认项 | [在线体验](https://storymaplab.coze.site) |
-| [需求→交付方案生成器](https://github.com/FionaHong-Lab/req-to-delivery-plan) | 把模糊 AI 需求整理成可评审的交付方案，展示人机边界、风险验收与灰度回滚（离线示例） | [查看界面](https://github.com/FionaHong-Lab/req-to-delivery-plan/blob/main/README.md#界面截图) |
+| 需求→交付方案生成器 | 把模糊 AI 需求整理成可评审的交付方案，展示人机边界、风险验收与灰度回滚（离线示例） | [查看界面](https://github.com/FionaHong-Lab/req-to-delivery-plan/blob/main/README.md#界面截图) |
 
 ## 工具实践
 
