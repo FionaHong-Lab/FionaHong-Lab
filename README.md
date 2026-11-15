@@ -8,8 +8,6 @@
 
 把业务场景翻译成可交付的 Agent：划清人机边界，定验收与灰度回滚，并在标明的假设下算清价值。
 
-**面试请先看：** [Case 06｜退换货端到端交付](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-06-return-refund-e2e-delivery.md)
-
 ---
 
 ## 项目协作 Agent
