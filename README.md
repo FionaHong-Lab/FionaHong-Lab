@@ -8,6 +8,8 @@
 
 把业务场景翻译成可交付的 Agent：划清人机边界，定验收与灰度回滚，并在标明的假设下算清价值。
 
+[个人官网](https://fionahong.cc/)
+
 ---
 
 ## 项目协作 Agent
@@ -19,6 +21,20 @@
 | 交付助手 Agent | 会议纪要 → 项目跟进：进展、行动项、风险与待确认事项 | [在线体验](https://deliverybrief.coze.site) |
 | 复盘助手 Agent | 项目过程 → 复盘结论：事实、原因与下一轮改进动作 | [在线体验](https://projectdelivery.coze.site) |
 | 需求拆解 Agent | 业务素材 → 需求地图：需求脉络、范围与待确认项 | [在线体验](https://storymaplab.coze.site) |
+
+## 工具实践
+
+### AI 模型选型与成本估算
+
+按用量假设和模型单价，用公式比较文本 API 推理成本。结果是成本对比，模型选择由使用方完成。文中数字均为假设。
+
+[阅读案例](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-04-ai-model-cost-estimator.md) · [在线体验](https://ai-model-cost.coze.site/)
+
+### Agent 运行回放台
+
+逐步回放一个退款 Agent 的运行记录：工具超时重试、异常输出、低置信转人工、权限拦截，附交付批注。示例数据。
+
+[在线体验](https://fionahong-lab.github.io/agent-run-replay/) · [仓库与说明](https://github.com/FionaHong-Lab/agent-run-replay)
 
 ## 业务场景实践
 
@@ -36,13 +52,7 @@
 | 03 上线风险 | [从 Demo 到可交付 Agent](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-03-agent-evaluation-before-launch.md) |
 | 06 端到端 | [退换货端到端交付](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-06-return-refund-e2e-delivery.md) |
 
-### 工具实践｜AI 模型选型与成本估算
-
-按用量假设和模型单价，用公式比较文本 API 推理成本。结果是成本对比，模型选择由使用方完成。文中数字均为假设。原型可运行，测试结果待补充。
-
-[阅读案例](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-04-ai-model-cost-estimator.md) · [在线体验](https://ai-model-cost.coze.site/)
-
-### 业务场景实践｜销售线索 Agent
+### 场景实践｜销售线索 Agent
 
 粘贴销售咨询或沟通记录，由 Agent 整理线索信息、待确认项、下一步建议与跟进话术草稿；冲突标记、不编造效果承诺；话术仅为草稿、不自动发送。演示场景 / 练习，非正式资格评分。
 
